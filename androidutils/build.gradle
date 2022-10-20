@@ -31,18 +31,18 @@ dependencies {
 }
 
 //================================JitPack 上传插件配置 start=========================================
-apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.sweetying520'
-
-buildscript {
-    repositories {
-        jcenter()
-    }
-    dependencies {
-        //JitPack插件
-        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
-    }
-}
+//apply plugin: 'com.github.dcendents.android-maven'
+//group='com.github.sweetying520'
+//
+//buildscript {
+//    repositories {
+//        jcenter()
+//    }
+//    dependencies {
+//        //JitPack插件
+//        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
+//    }
+//}
 //================================JitPack 上传插件配置 start=========================================
 
 ////================================bintray 上传插件配置 start=========================================
